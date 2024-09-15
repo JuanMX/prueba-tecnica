@@ -2,6 +2,8 @@
 
 Yo uso Laragon que tiene MySQL, HeidiSQL, una terminal y es más fácil para mi *levantar* proyectos de Laravel.
 
+**En esta prueba técnica se usó MySQL que ya viene integrado en Laragon.**
+
 ## Obtener Laragon
 
 Ir a https://laragon.org/download/ y descargar la versión full, aunque también la versión portable sirve.
